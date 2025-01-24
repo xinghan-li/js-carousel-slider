@@ -33,6 +33,11 @@ body {
     border-color: #5372f0;
 }
 
+/* shift left to align */
+.swiper-wrapper {
+    margin-left: -40px;
+}
+
 .card-list .card-link .card-image {
     width: 100%;
     aspect-ratio: 16 / 9;
